@@ -1,0 +1,20 @@
+{
+  "name": "new-relic-future-stack-22-future-hack-submission",
+  "version": "1.0.0",
+  "description": "new-relic-future-stack-22-future-hack-submission",
+  "main": "dialerTrigger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CurtBryan/new-relic-future-stack-22-future-hack-submission.git"
+  },
+  "keywords": [],
+  "author": "Curt Bryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CurtBryan/new-relic-future-stack-22-future-hack-submission/issues"
+  },
+  "homepage": "https://github.com/CurtBryan/new-relic-future-stack-22-future-hack-submission#readme"
+}
